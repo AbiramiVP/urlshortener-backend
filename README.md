@@ -4,12 +4,12 @@
 This is a fullstack url shortening project
 
 ## Description
-URL Shortener is a web application that allows users to create short and easy-to-share URLs from long and complex ones. It is built with Node.js for the backend. It also uses MongoDB as a database service to store the URL mappings.
+URL Shortener is a web application that allows users to create short and easy-to-share URLs from long and complex ones. It is built with React.js for the frontend.
 
 ## Overview
 
 ### Links
-* [Live URL]()
+* [Live URL](https://urlshortener-frontend-app.netlify.app)
 
 ## My process
 
